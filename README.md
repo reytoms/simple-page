@@ -1,0 +1,2 @@
+# simple-page
+Setting up
